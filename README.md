@@ -9,6 +9,7 @@ Nous Research tarafından yayımlanan Hermes Agent sürüm notlarının Türkçe
 
 ## Yazılar
 
+- [2026-10-14 — Hermes Agent v0.22.0](posts/2026-10-14-hermes-agent-v0-22-0.md)
 - [2026-10-13 — Hermes Agent main geliştirme özeti](posts/2026-10-13-hermes-agent-main-gelistirme-ozeti.md) *(etiketlenmemiş geliştirmeler)*
 - [2026-10-12 — Hermes Agent v0.21.7](posts/2026-10-12-hermes-agent-v0-21-7.md)
 - [2026-10-11 — Hermes Agent main geliştirme özeti](posts/2026-10-11-hermes-agent-main-gelistirme-ozeti.md) *(etiketlenmemiş geliştirmeler)*
