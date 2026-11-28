@@ -11,6 +11,7 @@ Nous Research tarafından yayımlanan Hermes Agent sürüm notlarının Türkçe
 
 - [2026-11-23 — Hermes Agent `main` geliştirme özeti](posts/2026-11-23-hermes-agent-main-gelistirme-ozeti.md)
 - [2026-11-22 — Hermes Agent `main` geliştirme özeti](posts/2026-11-22-hermes-agent-main-gelistirme-ozeti.md)
+- [2026-11-28 — Hermes Agent v0.23.5](posts/2026-11-28-hermes-agent-v0.23.5.md)
 - [2026-11-27 — Hermes Agent `main` geliştirme özeti](posts/2026-11-27-hermes-agent-main-gelistirme-ozeti.md)
 - [2026-11-24 — Hermes Agent v0.23.4](posts/2026-11-24-hermes-agent-v0.23.4.md)
 - [2026-11-24 — Hermes Agent `main` geliştirme özeti](posts/2026-11-24-hermes-agent-main-gelistirme-ozeti.md)
